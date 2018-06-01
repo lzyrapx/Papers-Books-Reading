@@ -1,3 +1,3 @@
-*.js linguist-language=pdf
-*.css linguist-language=pdf
-*.html linguist-language=pdf
+*.js linguist-language=python
+*.css linguist-language=python
+*.html linguist-language=python
