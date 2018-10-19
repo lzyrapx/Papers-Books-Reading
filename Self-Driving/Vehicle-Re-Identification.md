@@ -2,7 +2,7 @@
 collection of dataset, paper, code on Vehicle Re-Identification
 
 ## dataset
-* VeRi-776 [[Project]](https://github.com/VehicleReId/VeRidataset) [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
+* VeRi-776 [[Project]](https://github.com/VehicleReId/VeRidataset) [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)[[blog]](https://blog.csdn.net/Chen_yuazzy/article/details/80961735)
 * PKU-VehicleID [[Project]](http://pkuml.org/resources/pku-vehicleid.html) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)
 * PKU-VD [[Project]](http://pkuml.org/resources/pku-vds.html) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yan_Exploiting_Multi-Grain_Ranking_ICCV_2017_paper.pdf)
 * VehicleReId [[Project]](https://medusa.fit.vutbr.cz/traffic/datasets/) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w25/papers/Zapletal_Vehicle_Re-Identification_for_CVPR_2016_paper.pdf)
