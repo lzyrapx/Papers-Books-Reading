@@ -5,7 +5,13 @@
 #### Mathematica：数学相关
 #### NOI National Training Team：历年NOI中国国家候选队论文集
 #### Parallel Sorting：并行排序
-#### TopTree：????
+#### TopTree：Top树
 #### Others：其他
 ## References
 - [Karp's 21 NP-complete problems](https://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems)
+
+#### Competitive programming
+- 
+
+#### An Introduction to Quantum Computing, Without the Physics
+- [https://arxiv.org/abs/1708.03684](https://arxiv.org/abs/1708.03684)
