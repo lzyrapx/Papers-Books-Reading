@@ -15,3 +15,6 @@
 
 #### An Introduction to Quantum Computing, Without the Physics
 - [https://arxiv.org/abs/1708.03684](https://arxiv.org/abs/1708.03684)
+
+#### The Berlekamp-Massey Algorithm revisited
+- [http://hlombardi.free.fr/publis/BMAvar.pdf](http://hlombardi.free.fr/publis/BMAvar.pdf)
