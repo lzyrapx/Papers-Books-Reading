@@ -1,5 +1,5 @@
-#### Given a set contains ```m``` kinds of numbers, the number of ```a[i]``` is ```b[i]```, ```(b[i] != 0)```
-#### Return there are number of such subsets S modulo ```p``` that subsum is ```[1. n]```, ```p``` is a prime
+##### Given a set contains ```m``` kinds of numbers, the number of ```a[i]``` is ```b[i]```, ```(b[i] != 0)```
+##### Return there are number of such subsets S modulo ```p``` that subsum is ```[1. n]```, ```p``` is a prime
 
 #### Example:
 ```
