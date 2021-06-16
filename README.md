@@ -12,4 +12,5 @@
 #### The Berlekamp-Massey Algorithm revisited
 - [http://hlombardi.free.fr/publis/BMAvar.pdf](http://hlombardi.free.fr/publis/BMAvar.pdf)
 
-#### To be complete
+#### 视频防抖算法
+- [https://github.com/alex04072000/FuSta](https://github.com/alex04072000/FuSta)
