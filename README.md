@@ -14,3 +14,9 @@
 
 #### 视频防抖算法
 - [https://github.com/alex04072000/FuSta](https://github.com/alex04072000/FuSta)
+
+
+## LLM
+
+#### Google 小型化 VLM：Paligemma
+[PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)
