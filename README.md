@@ -1,6 +1,7 @@
 # Papers-Reading
-### Here are some papers I’ve read before...
-## References
+
+## Algorithm
+
 - [Karp's 21 NP-complete problems](https://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems)
 
 #### 回文树
@@ -19,7 +20,7 @@
 ## LLM
 
 #### Google 小型化 VLM：Paligemma
-[PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)
+- [PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)
 
 #### Transformers & Attention
-[Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
