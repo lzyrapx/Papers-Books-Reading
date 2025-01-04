@@ -20,3 +20,6 @@
 
 #### Google 小型化 VLM：Paligemma
 [PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)
+
+#### Transformers & Attention
+[Attention Is All You Need](https://arxiv.org/abs/1706.03762)
