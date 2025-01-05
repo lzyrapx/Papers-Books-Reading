@@ -5,6 +5,7 @@
 - [Karp's 21 NP-complete problems](https://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems)
 
 - [A Simple Near-Linear Pseudopolynomial Time Randomized Algorithm for Subset Sum](https://arxiv.org/abs/1807.11597)
+
 #### 回文树
 
 - [https://arxiv.org/abs/1506.04862](https://arxiv.org/abs/1506.04862)
@@ -28,6 +29,9 @@
 
 - [PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)
 
-#### Transformers & Attention
+#### Transformer & Attention
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+#### Flash Attention
+- [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
