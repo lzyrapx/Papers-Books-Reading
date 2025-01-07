@@ -41,3 +41,6 @@
 
 - [PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)
 
+#### Flash Attention 3
+
+- [FlashAttention-3 is optimized for Hopper GPUs (e.g. H100)](https://tridao.me/publications/flash3/flash3.pdf)
