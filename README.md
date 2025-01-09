@@ -48,3 +48,7 @@
 #### Flash Attention 3
 
 - [FlashAttention-3 is optimized for Hopper GPUs (e.g. H100)](https://tridao.me/publications/flash3/flash3.pdf)
+
+#### Sage Attention
+
+- [SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367)
