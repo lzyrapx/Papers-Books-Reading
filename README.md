@@ -6,7 +6,7 @@
 
 - [A Simple Near-Linear Pseudopolynomial Time Randomized Algorithm for Subset Sum](https://arxiv.org/abs/1807.11597)
 
-#### 回文树
+#### Palindromic Tree
 
 - [https://arxiv.org/abs/1506.04862](https://arxiv.org/abs/1506.04862)
 
@@ -18,7 +18,7 @@
 
 - [http://hlombardi.free.fr/publis/BMAvar.pdf](http://hlombardi.free.fr/publis/BMAvar.pdf)
 
-#### 视频防抖算法
+#### Video Stabilization Algorithm
 
 - [https://github.com/alex04072000/FuSta](https://github.com/alex04072000/FuSta)
 
