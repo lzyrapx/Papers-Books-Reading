@@ -56,3 +56,7 @@
 #### Sage Attention 2
 
 - [SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](https://arxiv.org/abs/2411.10958)
+
+#### Advertising with Multimodal
+
+- [Enhancing Taobao Display Advertising with Multimodal Representations: Challenges, Approaches and Insights](https://arxiv.org/abs/2407.19467)
