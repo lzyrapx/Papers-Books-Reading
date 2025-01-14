@@ -37,7 +37,7 @@
 
 - [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)
 
-#### Google 小型化 VLM：Paligemma
+#### Google small VLM：Paligemma
 
 - [PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)
 
