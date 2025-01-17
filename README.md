@@ -25,13 +25,11 @@
 
 ## LLM
 
-#### Transformer & Attention
+|Date|Paper|Key Words|
+|:---:|:---:|:---:|
+|2017.6.12|[Attention Is All You Need](https://arxiv.org/abs/1706.03762)|Transformer & Attention|
+|2022.5.27|[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)|Flash Attention|
 
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-
-#### Flash Attention
-
-- [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
 
 #### Flash Attention 2
 
