@@ -29,23 +29,10 @@
 |:---:|:---:|:---:|
 |2017.6.12|[Attention Is All You Need](https://arxiv.org/abs/1706.03762)|Transformer & Attention|
 |2022.5.27|[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)|Flash Attention|
-
-
-#### Flash Attention 2
-
-- [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)
-
-#### Google small VLM：Paligemma
-
-- [PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)
-
-#### Scaling on Scales
-
-- [When Do We Not Need Larger Vision Models?](https://arxiv.org/abs/2403.13043)
-
-#### Flash Attention 3
-
-- [FlashAttention-3 is optimized for Hopper GPUs (e.g. H100)](https://tridao.me/publications/flash3/flash3.pdf)
+|2023.7.18|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)| Flash Attention 2|
+|2024.3.19|[When Do We Not Need Larger Vision Models?](https://arxiv.org/abs/2403.13043)|Scaling on Scales|
+|2024.7.10|[PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)|Google small VLM: Paligemma|
+|2024.7.12|[FlashAttention-3 is optimized for Hopper GPUs (e.g. H100)](https://tridao.me/publications/flash3/flash3.pdf)|Flash Attention 3|
 
 #### Sage Attention
 
