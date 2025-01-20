@@ -2,13 +2,11 @@
 
 ## Algorithm
 
-- [Karp's 21 NP-complete problems](https://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems)
-
-- [A Simple Near-Linear Pseudopolynomial Time Randomized Algorithm for Subset Sum](https://arxiv.org/abs/1807.11597)
-
-#### Palindromic Tree
-
-- [https://arxiv.org/abs/1506.04862](https://arxiv.org/abs/1506.04862)
+|Date|Paper|Key Words|
+|:---:|:---:|:---:|
+|1972|[Karp's 21 NP-complete problems](https://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems)|Karp's 21 NP-complete problems|
+|2015.6.16|[EERTREE: An Efficient Data Structure for Processing Palindromes in Strings](https://arxiv.org/abs/1506.04862)|Palindromic Tree|
+|2018.7.30|[A Simple Near-Linear Pseudopolynomial Time Randomized Algorithm for Subset Sum](https://arxiv.org/abs/1807.11597)|A Simple Near-Linear Pseudopolynomial Time Randomized Algorithm for Subset Sum|
 
 #### An Introduction to Quantum Computing, Without the Physics
 
