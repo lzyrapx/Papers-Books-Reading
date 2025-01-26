@@ -7,7 +7,7 @@
 |1972|[Karp's 21 NP-complete problems](https://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems)|Karp's 21 NP-complete problems|
 |1973|[An n^{5/2} algorithm for maximum matchings in bipartite graphs](https://web.eecs.umich.edu/~pettie/matching/Hopcroft-Karp-bipartite-matching.pdf)|Hopcroft-Karp Algorithm|
 |2002|[A 27/26-Approximation Algorithm for the Chromatic Sum Coloring of Bipartite Graphs](https://eti.pg.edu.pl/documents/174618/23783336/A%202726-Approximation%20Algorithm%20for%20the%20Chromatic%20Sum%20Coloring%20of%20Bipartite%20Graphs.pdf)|Chromatic Sum Coloring of Bipartite Graphs|
-|2015.6.16|[EERTREE: An Efficient Data Structure for Processing Palindromes in Strings](https://arxiv.org/abs/1506.04862)|Palindromic Tree|
+|2015.6.16|[An Efficient Data Structure for Processing Palindromes in Strings](https://arxiv.org/abs/1506.04862)|Palindromic Tree|
 |2017.8.11|[An Introduction to Quantum Computing, Without the Physics](https://arxiv.org/abs/1708.03684)| Quantum Computing, Without the Physics|
 |2018.7.30|[A Simple Near-Linear Pseudopolynomial Time Randomized Algorithm for Subset Sum](https://arxiv.org/abs/1807.11597)|A Simple Near-Linear Pseudopolynomial Time Randomized Algorithm for Subset Sum|
 |2021.2.11|[Hybrid Neural Fusion for Full-frame Video Stabilization](https://arxiv.org/abs/2102.06205)|Video Stabilization Algorithm|
@@ -21,6 +21,7 @@
 |2022.5.27|[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)|Flash Attention|
 |2022.8.15|[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)|LLM.int8|
 |2023.7.18|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)| Flash Attention 2|
+|2024.25|[KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache](https://arxiv.org/abs/2402.02750)|KV Cache 2-bit|
 |2024.3.19|[When Do We Not Need Larger Vision Models?](https://arxiv.org/abs/2403.13043)|Scaling on Scales|
 |2024.7.10|[PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)|Google small VLM: Paligemma|
 |2024.7.12|[FlashAttention-3 is optimized for Hopper GPUs (e.g. H100)](https://tridao.me/publications/flash3/flash3.pdf)|Flash Attention 3|
