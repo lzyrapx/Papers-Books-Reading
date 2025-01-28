@@ -21,6 +21,7 @@
 |2022.5.27|[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)|Flash Attention|
 |2022.8.15|[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)|LLM.int8|
 |2023.7.18|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)| Flash Attention 2|
+|2023.3.13|[FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)|KV Cache 4-bit|
 |2024.2.5|[KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache](https://arxiv.org/abs/2402.02750)|KV Cache 2-bit|
 |2024.3.19|[When Do We Not Need Larger Vision Models?](https://arxiv.org/abs/2403.13043)|Scaling on Scales|
 |2024.7.10|[PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)|Google small VLM: Paligemma|
