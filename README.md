@@ -20,6 +20,7 @@
 |2017.6.12|[Attention Is All You Need](https://arxiv.org/abs/1706.03762)|Transformer & Attention|
 |2022.5.27|[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)|Flash Attention|
 |2022.8.15|[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)|LLM.int8|
+|2022.11.18|[SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)|8-bit Weight，8-bit Activation (W8A8)|
 |2023.7.18|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)| Flash Attention 2|
 |2023.3.13|[FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)|KV Cache 4-bit|
 |2023.6.13|[SqueezeLLM: Dense-and-Sparse Quantization](https://arxiv.org/abs/2306.07629)|KV Cache 3-bit|
