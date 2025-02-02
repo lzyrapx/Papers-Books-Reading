@@ -18,6 +18,7 @@
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
 |2017.6.12|[Attention Is All You Need](https://arxiv.org/abs/1706.03762)|Transformer & Attention|
+|2018.6.11|[Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)|Generative transformer model|
 |2022.5.27|[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)|Flash Attention|
 |2022.6.4|[ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers](https://arxiv.org/abs/2206.01861)|INT8 weights and INT8 activations|
 |2022.8.15|[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)|LLM.int8|
