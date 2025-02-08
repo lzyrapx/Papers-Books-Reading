@@ -32,6 +32,7 @@
 |2023.6.13|[SqueezeLLM: Dense-and-Sparse Quantization](https://arxiv.org/abs/2306.07629)|KV Cache 3-bit|
 |2024.1.31|[KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization](https://arxiv.org/abs/2401.18079)|KV Cache 2、3、4-bit|
 |2024.2.5|[KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache](https://arxiv.org/abs/2402.02750)|KV Cache 2-bit|
+|2024.2.27|[Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations](https://arxiv.org/abs/2402.17152)|LLM for Large-scale recommendation systems|
 |2024.3.19|[When Do We Not Need Larger Vision Models?](https://arxiv.org/abs/2403.13043)|Scaling on Scales|
 |2024.7.10|[PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)|Google small VLM: Paligemma|
 |2024.7.12|[FlashAttention-3 is optimized for Hopper GPUs (e.g. H100)](https://tridao.me/publications/flash3/flash3.pdf)|Flash Attention 3|
