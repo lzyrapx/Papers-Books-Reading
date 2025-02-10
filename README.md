@@ -27,7 +27,9 @@
 |2022.6.4|[ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers](https://arxiv.org/abs/2206.01861)|INT8 weights and INT8 activations|
 |2022.8.15|[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)|LLM.int8|
 |2022.11.18|[SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)|8-bit Weight，8-bit Activation (W8A8)|
-|2023.5.29|[LLM-QAT: Data-Free Quantization Aware Training for Large Language Models](https://arxiv.org/abs/2305.17888)|Quantization Aware Training(QAT)|
+|2023.5.23|[Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization](https://arxiv.org/abs/2305.14152)|Parameter-Efficient and Quantization-aware Adaptation (PEQA) [LLM-QAT]|
+|2023.5.23|[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)|QLoRA & NF4 (4-bit NormalFloat) [LLM-QAT]|
+|2023.5.29|[LLM-QAT: Data-Free Quantization Aware Training for Large Language Models](https://arxiv.org/abs/2305.17888)|LLM Quantization Aware Training [LLM-QAT]|
 |2023.7.18|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)| Flash Attention 2|
 |2023.3.13|[FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)|KV Cache 4-bit|
 |2023.6.13|[SqueezeLLM: Dense-and-Sparse Quantization](https://arxiv.org/abs/2306.07629)|KV Cache 3-bit|
