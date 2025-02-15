@@ -27,6 +27,12 @@
 |2024.2.5|[KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache](https://arxiv.org/abs/2402.02750)|KV Cache 2-bit|
 |2024.2.26|[A Comprehensive Evaluation of Quantization Strategies for Large Language Models](https://arxiv.org/abs/2402.16775)|PTQ|
 
+### MOE
+
+|Date|Paper|Key Words|
+|:---:|:---:|:---:|
+|2021.1.11|[Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961)|Mixture of Expert (MoE)|
+
 ### Inference
 
 |Date|Paper|Key Words|
