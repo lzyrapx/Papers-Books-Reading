@@ -54,6 +54,12 @@
 |2024.10.3|[SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367)|Sage Attention|
 |2024.11.17|[SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](https://arxiv.org/abs/2411.10958)|Sage Attention 2|
 
+#### Others
+
+|Date|Paper|Key Words|
+|:---:|:---:|:---:|
+|2019.10.2|[DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)|Bert distilled version & knowledge distillation|
+
 ## Algorithm
 
 |Date|Paper|Key Words|
