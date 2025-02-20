@@ -42,7 +42,6 @@
 |2018.6.11|[Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)|Generative transformer model|
 |2018.10.11|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)|BERT (Bidirectional Encoder Representations from Transformers)|
 |2019.1.9|[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)|Transformer-XL (extra-long)|
-|2019.2.24|[Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|GPT-2|
 |2019.5.17|[ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129)|Knowledge graphs with BERT|
 |2022.5.27|[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)|Flash Attention|
 |2023.7.18|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)| Flash Attention 2|
@@ -58,9 +57,11 @@
 
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
+|2019.2.24|[Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|GPT-2|
 |2019.10.2|[DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)|Bert distilled version & knowledge distillation|
 |2019.10.23|[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)| Unified Text-to-Text Transformer & T5 (Encoder-Decoder)|
 |2020.05.22|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)| Retrieval-Augmented Generation (RAG)|
+|2020.5.28|[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)|GPT-3|
 
 ## Algorithm
 
