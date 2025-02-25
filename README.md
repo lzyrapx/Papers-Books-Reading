@@ -6,6 +6,8 @@
 
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
+|2023.4.17|[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)|LLaVa|
+|2024.3.8|[DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://arxiv.org/abs/2403.05525)|DeepSeek-VL: Dense & VLM|
 |2024.7.10|[PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)|Google small VLM: Paligemma|
 |2024.12.6|[Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling](https://arxiv.org/abs/2412.05271)|VLM: InternVL 2.5|
 |2024.12.13|[DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/abs/2412.10302)|DeepSeek-VL2: MOE & VLM|
