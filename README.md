@@ -9,6 +9,7 @@
 |2023.4.17|[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)|LLaVa|
 |2024.3.8|[DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://arxiv.org/abs/2403.05525)|DeepSeek-VL: Dense & VLM|
 |2024.7.10|[PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)|Google small VLM: Paligemma|
+|2024.10.8|[Aria: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)|First MoE VLM: Aria|
 |2024.12.6|[Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling](https://arxiv.org/abs/2412.05271)|VLM: InternVL 2.5|
 |2024.12.13|[DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/abs/2412.10302)|DeepSeek-VL2: MOE & VLM|
 |2024.12.27|[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)|DeepSeek-V3 Technical Report|
@@ -35,6 +36,7 @@
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
 |2021.1.11|[Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961)|Mixture of Expert (MoE)|
+|2024.1.11|[DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/abs/2401.06066)|DeepSeekMoE|
 
 ### Inference
 
@@ -54,6 +56,12 @@
 |2024.8.22|[NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://arxiv.org/abs/2408.12757)|A novel serving framework: NanoFlow|
 |2024.10.3|[SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367)|Sage Attention|
 |2024.11.17|[SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](https://arxiv.org/abs/2411.10958)|Sage Attention 2|
+
+### Transformer
+
+|Date|Paper|Key Words|
+|:---:|:---:|:---:|
+|2020.10.22|[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)|Vision Transformer (ViT)|
 
 ### Others
 
@@ -79,3 +87,6 @@
 |2022.11.21|[The Berlekamp-Massey Algorithm revisited](http://hlombardi.free.fr/publis/BMAvar.pdf)|Berlekamp-Massey Algorithm|
 
 ## Engineering
+|Date|Paper|Key Words|
+|:---:|:---:|:---:|
+||||
