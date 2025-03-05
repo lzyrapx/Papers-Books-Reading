@@ -14,7 +14,9 @@
 |2024.12.13|[DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/abs/2412.10302)|DeepSeek-VL2: MOE & VLM|
 |2024.12.27|[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)|DeepSeek-V3 Technical Report|
 
-### Tranning
+### Training
+
+|Date|Paper|Key Words|
 |:---:|:---:|:---:|
 |2021.7.14|[Chimera: Efficiently Training Large-Scale Neural Networks with Bidirectional Pipelines](https://arxiv.org/abs/2107.06925)|Bidirectional Pipelines|
 |2023.11.30|[Zero Bubble Pipeline Parallelism](https://arxiv.org/abs/2401.10241)|Zero Bubble PP|
