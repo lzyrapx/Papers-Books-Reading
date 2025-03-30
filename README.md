@@ -2,6 +2,13 @@
 
 ## LLM
 
+### Survey
+
+|Date|Paper|Key Words|
+|:---:|:---:|:---:|
+|2024.4.22|[A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)|Efficient Inference|
+|2024.12.27|[A Survey on Large Language Model Acceleration based on KV Cache Management](https://arxiv.org/abs/2412.19442)|KV Cache Management|
+
 ### Models
 
 |Date|Paper|Key Words|
