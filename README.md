@@ -25,6 +25,13 @@
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
 ||||
+
+### Serving
+|Date|Paper|Key Words|
+|:---:|:---:|:---:|
+|2024.5.7|[QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](https://arxiv.org/abs/2405.04532v2)|Boosts efficiency with W4A8KV4 quantization & Reduces dequantization overheads|
+|2025.2.20|[LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention](https://arxiv.org/abs/2502.14866)|Accelerates long-context LLM inference through unified sparse attention & Hierarchical KV cache management|
+
 ### Training
 
 |Date|Paper|Key Words|
