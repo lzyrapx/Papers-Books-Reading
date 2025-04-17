@@ -24,7 +24,7 @@
 ### Kernel Optimazation
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
-||||
+|2021.10.25|[Bolt: Bridging the Gap between Auto-tuners and Hardware-native Performance](https://arxiv.org/abs/2110.15238)|Kernels fusion|
 
 ### Serving
 |Date|Paper|Key Words|
