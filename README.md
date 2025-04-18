@@ -6,8 +6,8 @@
 
 |Date|Paper|Key Words|Github|
 |:---:|:---:|:---:|:---:|
-|2024.4.22|[A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)|Efficient Inference|[Awesome-KV-Cache-Management](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management) & [Awesome-LLM-KV-Cache](https://github.com/Zefan-Cai/Awesome-LLM-KV-Cache)|
-|2024.12.27|[A Survey on Large Language Model Acceleration based on KV Cache Management](https://arxiv.org/abs/2412.19442)|KV Cache Management||
+|2024.4.22|[A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)|Efficient Inference||
+|2024.12.27|[A Survey on Large Language Model Acceleration based on KV Cache Management](https://arxiv.org/abs/2412.19442)|KV Cache Management|[Awesome-KV-Cache-Management](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management) & [Awesome-LLM-KV-Cache](https://github.com/Zefan-Cai/Awesome-LLM-KV-Cache)|
 
 ### Models
 
@@ -25,6 +25,7 @@
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
 |2021.10.25|[Bolt: Bridging the Gap between Auto-tuners and Hardware-native Performance](https://arxiv.org/abs/2110.15238)|Kernels fusion|
+|||
 
 ### Serving
 |Date|Paper|Key Words|
