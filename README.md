@@ -24,8 +24,8 @@
 ### Kernel Optimazation
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
-|2021.10.25|[Bolt: Bridging the Gap between Auto-tuners and Hardware-native Performance](https://arxiv.org/abs/2110.15238)|Kernels fusion|
-|||
+|2021.10.25|[Bolt: Bridging the Gap between Auto-tuners and Hardware-native Performance](https://arxiv.org/abs/2110.15238)|Persistent kernel fusion|
+|2025.4.8|[Accelerating LLM Inference Throughput via Asynchronous KV Cache Prefetching](https://arxiv.org/abs/2504.06319)|Prefetches required KV Cache into GPU L2 cache|
 
 ### Serving
 |Date|Paper|Key Words|
