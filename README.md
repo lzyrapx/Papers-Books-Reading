@@ -22,6 +22,7 @@
 |2024.12.27|[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)|DeepSeek-V3 Technical Report|
 
 ### Kernel Optimization
+
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
 |2021.10.25|[Bolt: Bridging the Gap between Auto-tuners and Hardware-native Performance](https://arxiv.org/abs/2110.15238)|Persistent kernel fusion|
@@ -29,6 +30,7 @@
 |2025.4.8|[Accelerating LLM Inference Throughput via Asynchronous KV Cache Prefetching](https://arxiv.org/abs/2504.06319)|Prefetches required KV Cache into GPU L2 cache|
 
 ### Serving
+
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
 |2024.5.7|[QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](https://arxiv.org/abs/2405.04532v2)|Boosts efficiency with W4A8KV4 quantization & Reduces dequantization overheads|
@@ -58,6 +60,7 @@
 |2024.2.5|[KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache](https://arxiv.org/abs/2402.02750)|KV Cache 2-bit|
 |2024.2.26|[A Comprehensive Evaluation of Quantization Strategies for Large Language Models](https://arxiv.org/abs/2402.16775)|PTQ|
 |2024.6.5|[QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead](https://arxiv.org/abs/2406.03482)|3 Bits KV Cache|
+|2024.11.26|[Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation](https://arxiv.org/abs/2411.17089)|KV Cache Recomputation|
 |2025.2.15|[CalibQuant: 1-Bit KV Cache Quantization for Multimodal LLMs](https://arxiv.org/abs/2502.14882)|1-Bit KV Cache|
 |2025.3.25|[LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation](https://arxiv.org/abs/2503.19950)|2-Bit KV Cache|
 
