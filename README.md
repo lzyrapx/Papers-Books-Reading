@@ -43,6 +43,12 @@
 |2021.7.14|[Chimera: Efficiently Training Large-Scale Neural Networks with Bidirectional Pipelines](https://arxiv.org/abs/2107.06925)|Bidirectional Pipelines|
 |2023.11.30|[Zero Bubble Pipeline Parallelism](https://arxiv.org/abs/2401.10241)|Zero Bubble PP|
 
+### Attention
+
+|Date|Paper|Key Words|
+|:---:|:---:|:---:|
+|2025.4.1|[Multi-Token Attention](https://arxiv.org/abs/2504.00927v1)|Multi-Token Attention|
+
 ### Quantization
 
 |Date|Paper|Key Words|
@@ -120,7 +126,3 @@
 |2021.2.11|[Hybrid Neural Fusion for Full-frame Video Stabilization](https://arxiv.org/abs/2102.06205)|Video Stabilization Algorithm|
 |2022.11.21|[The Berlekamp-Massey Algorithm revisited](http://hlombardi.free.fr/publis/BMAvar.pdf)|Berlekamp-Massey Algorithm|
 
-## Engineering
-|Date|Paper|Key Words|
-|:---:|:---:|:---:|
-||||
