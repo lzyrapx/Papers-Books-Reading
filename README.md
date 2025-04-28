@@ -25,6 +25,7 @@
 
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
+|2019|[Understanding the Overheads of Launching CUDA Kernels](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/data/posters/Poster17-abst.pdf)|Launch Overhead|
 |2021.10.25|[Bolt: Bridging the Gap between Auto-tuners and Hardware-native Performance](https://arxiv.org/abs/2110.15238)|Persistent kernel fusion|
 |2022.4.5|[PERKS: a Locality-Optimized Execution Model for Iterative Memory-bound GPU Applications](https://arxiv.org/abs/2204.02064)|PERsistent KernelS (PERKS)|
 |2025.4.8|[Accelerating LLM Inference Throughput via Asynchronous KV Cache Prefetching](https://arxiv.org/abs/2504.06319)|Prefetches required KV Cache into GPU L2 cache|
