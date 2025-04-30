@@ -28,8 +28,8 @@
 |2019|[Understanding the Overheads of Launching CUDA Kernels](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/data/posters/Poster17-abst.pdf)|Kernel Launch Overhead|
 |2021.10.25|[Bolt: Bridging the Gap between Auto-tuners and Hardware-native Performance](https://arxiv.org/abs/2110.15238)|Persistent kernel fusion|
 |2022.4.5|[PERKS: a Locality-Optimized Execution Model for Iterative Memory-bound GPU Applications](https://arxiv.org/abs/2204.02064)|PERsistent KernelS (PERKS)|
-|2025.4.8|[Accelerating LLM Inference Throughput via Asynchronous KV Cache Prefetching](https://arxiv.org/abs/2504.06319)|Prefetches required KV Cache into GPU L2 cache|
 |2023.12.19|[A Case Study in CUDA Kernel Fusion: Implementing FlashAttention-2 on NVIDIA Hopper Architecture using the CUTLASS Library](https://arxiv.org/abs/2312.11918)|FlashAttention2 using cutlass|
+|2025.4.8|[Accelerating LLM Inference Throughput via Asynchronous KV Cache Prefetching](https://arxiv.org/abs/2504.06319)|Prefetches required KV Cache into GPU L2 cache|
 
 ### Serving
 
@@ -49,6 +49,11 @@
 
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
+|2022.5.27|[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)|Flash Attention|
+|2023.7.18|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)| Flash Attention 2|
+|2024.7.12|[FlashAttention-3 is optimized for Hopper GPUs (e.g. H100)](https://tridao.me/publications/flash3/flash3.pdf)|Flash Attention 3|
+|2024.10.3|[SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367)|Sage Attention|
+|2024.11.17|[SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](https://arxiv.org/abs/2411.10958)|Sage Attention 2|
 |2025.4.1|[Multi-Token Attention](https://arxiv.org/abs/2504.00927v1)|Multi-Token Attention|
 
 ### Quantization
@@ -90,15 +95,10 @@
 |2018.10.11|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)|BERT (Bidirectional Encoder Representations from Transformers)|
 |2019.1.9|[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)|Transformer-XL (extra-long)|
 |2019.5.17|[ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129)|Knowledge graphs with BERT|
-|2022.5.27|[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)|Flash Attention|
-|2023.7.18|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)| Flash Attention 2|
 |2024.2.27|[Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations](https://arxiv.org/abs/2402.17152)|LLM for Large-scale recommendation systems|
 |2024.3.19|[When Do We Not Need Larger Vision Models?](https://arxiv.org/abs/2403.13043)|Scaling on Scales|
-|2024.7.12|[FlashAttention-3 is optimized for Hopper GPUs (e.g. H100)](https://tridao.me/publications/flash3/flash3.pdf)|Flash Attention 3|
 |2024.7.28|[Enhancing Taobao Display Advertising with Multimodal Representations: Challenges, Approaches and Insights](https://arxiv.org/abs/2407.19467)|Advertising with Multimodal|
 |2024.8.22|[NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://arxiv.org/abs/2408.12757)|A novel serving framework: NanoFlow|
-|2024.10.3|[SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367)|Sage Attention|
-|2024.11.17|[SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](https://arxiv.org/abs/2411.10958)|Sage Attention 2|
 
 ### Transformer
 
