@@ -76,6 +76,7 @@
 |2024.6.5|[QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead](https://arxiv.org/abs/2406.03482)|3 Bits KV Cache|
 |2024.11.26|[Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation](https://arxiv.org/abs/2411.17089)|KV Cache Recomputation|
 |2025.1.25|[RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations](https://arxiv.org/abs/2501.16383)|2-Bit KV Cache|
+|2025.2.4|[ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization](https://arxiv.org/abs/2502.02631)|Low-bit LLM Quantization|
 |2025.2.15|[CalibQuant: 1-Bit KV Cache Quantization for Multimodal LLMs](https://arxiv.org/abs/2502.14882)|1-Bit KV Cache|
 |2025.3.25|[LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation](https://arxiv.org/abs/2503.19950)|2-Bit KV Cache|
 
