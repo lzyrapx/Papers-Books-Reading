@@ -115,6 +115,7 @@
 |2019.10.2|[DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)|Bert distilled version & knowledge distillation|
 |2019.10.23|[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)| Unified Text-to-Text Transformer & T5 (Encoder-Decoder)|
 |2020.05.22|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)| Retrieval-Augmented Generation (RAG)|
+|2020.10.29|[AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)|Auto generate prompt|
 |2020.5.28|[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)|GPT-3|
 |2021.4.20|[RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)|RoPE|
 
