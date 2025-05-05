@@ -119,6 +119,7 @@
 |2020.10.29|[AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)|Auto generate prompt|
 |2021.4.20|[RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)|RoPE|
 |2021.6.17|[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)|LoRA|
+|2021.9.3|[Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)|finetune|
 
 ## Algorithm
 
