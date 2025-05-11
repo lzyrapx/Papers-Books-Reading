@@ -25,6 +25,7 @@
 
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
+|2018.11.19|[Modeling Deep Learning Accelerator Enabled GPUs](https://arxiv.org/abs/1811.08309)|Tensor Core Design && GPGPU-Sim|
 |2019|[Understanding the Overheads of Launching CUDA Kernels](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/data/posters/Poster17-abst.pdf)|Kernel Launch Overhead|
 |2021.10.25|[Bolt: Bridging the Gap between Auto-tuners and Hardware-native Performance](https://arxiv.org/abs/2110.15238)|Persistent kernel fusion|
 |2022.4.5|[PERKS: a Locality-Optimized Execution Model for Iterative Memory-bound GPU Applications](https://arxiv.org/abs/2204.02064)|PERsistent KernelS (PERKS)|
