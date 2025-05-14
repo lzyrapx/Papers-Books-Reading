@@ -55,6 +55,7 @@
 |2024.7.12|[FlashAttention-3 is optimized for Hopper GPUs (e.g. H100)](https://tridao.me/publications/flash3/flash3.pdf)|Flash Attention 3|
 |2024.10.3|[SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367)|Sage Attention|
 |2024.11.17|[SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](https://arxiv.org/abs/2411.10958)|Sage Attention 2|
+|2024.3.7|[Slim attention: cut your context memory in half without loss of accuracy -- K-cache is all you need for MHA](https://arxiv.org/abs/2503.05840)|slim Attention|
 |2025.4.1|[Multi-Token Attention](https://arxiv.org/abs/2504.00927v1)|Multi-Token Attention|
 
 ### Quantization
