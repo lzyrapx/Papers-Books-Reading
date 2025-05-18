@@ -123,6 +123,7 @@
 |2021.6.17|[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)|LoRA|
 |2021.7.7|[Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)|finetune|
 |2021.9.3|[Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)|finetune|
+|2021.12.13|[GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://arxiv.org/abs/2112.06905)|GLaM & MOE|
 
 ## Algorithm
 
