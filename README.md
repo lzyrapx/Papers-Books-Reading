@@ -124,6 +124,7 @@
 |2021.7.7|[Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)|finetune|
 |2021.9.3|[Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)|finetune|
 |2021.12.13|[GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://arxiv.org/abs/2112.06905)|GLaM & MOE|
+|2021.12.17|[WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)|WebGPT|
 |2025.5.14|[Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://arxiv.org/abs/2505.09343v1)|DeepSeek's AI Architectures|
 
 ## Algorithm
