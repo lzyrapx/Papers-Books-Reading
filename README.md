@@ -109,6 +109,12 @@
 |:---:|:---:|:---:|
 |2020.10.22|[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)|Vision Transformer (ViT)|
 
+### AI Agent
+|Date|Paper|Key Words|
+|:---:|:---:|:---:|
+|2024.2.2|[TravelPlanner: A Benchmark for Real-World Planning with Language Agents](https://arxiv.org/abs/2402.01622)|Real-World Planning|
+|2024.4.18|[Large Language Models Can Solve Real-World Planning Rigorously with Formal Verification Tools](https://arxiv.org/abs/2404.11891)|Real-World Planning|
+
 ### Others
 
 |Date|Paper|Key Words|
