@@ -51,6 +51,7 @@
 
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
+|2020.6.29|[Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)| Linear Attention |
 |2022.5.27|[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)|Flash Attention|
 |2023.7.18|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)| Flash Attention 2|
 |2024.7.12|[FlashAttention-3 is optimized for Hopper GPUs (e.g. H100)](https://tridao.me/publications/flash3/flash3.pdf)|Flash Attention 3|
