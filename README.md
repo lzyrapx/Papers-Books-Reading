@@ -122,6 +122,7 @@
 
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
+|2023.2.9|[Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)|Agent or RAG concepts|
 |2024.2.2|[TravelPlanner: A Benchmark for Real-World Planning with Language Agents](https://arxiv.org/abs/2402.01622)|Real-World Planning|
 |2024.4.18|[Large Language Models Can Solve Real-World Planning Rigorously with Formal Verification Tools](https://arxiv.org/abs/2404.11891)|Real-World Planning|
 
