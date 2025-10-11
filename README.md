@@ -15,6 +15,7 @@
 |:---:|:---:|:---:|
 |2022.3.4|[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)|InstructGPT && Human feedback training|
 |2022.4.5|[PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)|PaLM|
+|2023.2.27|[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)|LLaMA|
 |2023.4.17|[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)|LLaVa|
 |2024.3.8|[DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://arxiv.org/abs/2403.05525)|DeepSeek-VL: Dense & VLM|
 |2024.7.10|[PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)|Google small VLM: Paligemma|
