@@ -112,6 +112,7 @@
 |2024.7.28|[Enhancing Taobao Display Advertising with Multimodal Representations: Challenges, Approaches and Insights](https://arxiv.org/abs/2407.19467)|Advertising with Multimodal|
 |2024.8.22|[NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://arxiv.org/abs/2408.12757)|A novel serving framework: NanoFlow|
 |2025.3.3|[EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test](https://arxiv.org/abs/2503.01840)|Speculative decoding: Eagle 3|
+|2025.5.8|[Scaling Laws for Speculative Decoding](https://arxiv.org/abs/2505.07858)|Scaling Laws for Speculative Decoding|
 
 ### Transformer
 
@@ -139,8 +140,8 @@
 |2020.10.29|[AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)|Auto generate prompt|
 |2021.4.20|[RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)|RoPE|
 |2021.6.17|[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)|LoRA|
-|2021.7.7|[Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)|finetune|
-|2021.9.3|[Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)|finetune|
+|2021.7.7|[Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)|Finetune|
+|2021.9.3|[Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)|Finetune|
 |2021.12.13|[GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://arxiv.org/abs/2112.06905)|GLaM & MOE|
 |2021.12.17|[WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)|WebGPT|
 |2022.1.28|[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)|Chain-of-Thought|
