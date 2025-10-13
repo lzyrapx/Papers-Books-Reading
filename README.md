@@ -13,9 +13,12 @@
 
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
+|2019.2.24|[Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|GPT-2|
+|2020.5.28|[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)|GPT-3|
 |2022.3.4|[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)|InstructGPT && Human feedback training|
 |2022.4.5|[PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)|PaLM|
 |2023.2.27|[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)|LLaMA|
+|2023.3.15|[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)|GPT-4|
 |2023.4.17|[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)|LLaVa|
 |2024.3.8|[DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://arxiv.org/abs/2403.05525)|DeepSeek-VL: Dense & VLM|
 |2024.7.10|[PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)|Google small VLM: Paligemma|
@@ -132,11 +135,9 @@
 
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
-|2019.2.24|[Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|GPT-2|
 |2019.10.2|[DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)|Bert distilled version & knowledge distillation|
 |2019.10.23|[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)| Unified Text-to-Text Transformer & T5 (Encoder-Decoder)|
 |2020.05.22|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)| Retrieval-Augmented Generation (RAG)|
-|2020.5.28|[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)|GPT-3|
 |2020.10.29|[AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)|Auto generate prompt|
 |2021.4.20|[RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)|RoPE|
 |2021.6.17|[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)|LoRA|
