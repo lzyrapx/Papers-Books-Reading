@@ -20,6 +20,7 @@
 |2023.2.27|[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)|LLaMA|
 |2023.3.15|[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)|GPT-4|
 |2023.4.17|[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)|LLaVa|
+|2023.6.20|[textbooks are all you need](https://arxiv.org/abs/2306.11644)|Phi-1|
 |2024.3.8|[DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://arxiv.org/abs/2403.05525)|DeepSeek-VL: Dense & VLM|
 |2024.7.10|[PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726)|Google small VLM: Paligemma|
 |2024.10.8|[Aria: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)|First MoE VLM: Aria|
