@@ -124,6 +124,12 @@
 |:---:|:---:|:---:|
 |2020.10.22|[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)|Vision Transformer (ViT)|
 
+### Prompt Engineering
+
+|Date|Paper|Key Words|
+|:---:|:---:|:---:|
+|2025.10.6|[Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)](https://arxiv.org/abs/2510.04950)|Politeness Affects LLM Accuracy|
+
 ### AI Agent
 
 |Date|Paper|Key Words|
