@@ -170,4 +170,5 @@
 |2018.7.30|[A Simple Near-Linear Pseudopolynomial Time Randomized Algorithm for Subset Sum](https://arxiv.org/abs/1807.11597)|A Simple Near-Linear Pseudopolynomial Time Randomized Algorithm for Subset Sum|
 |2021.2.11|[Hybrid Neural Fusion for Full-frame Video Stabilization](https://arxiv.org/abs/2102.06205)|Video Stabilization Algorithm|
 |2022.11.21|[The Berlekamp-Massey Algorithm revisited](http://hlombardi.free.fr/publis/BMAvar.pdf)|Berlekamp-Massey Algorithm|
+|2025.4.23|[Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033v1)| O(mlog2/3n)-time algorithm for single-source shortest paths |
 
