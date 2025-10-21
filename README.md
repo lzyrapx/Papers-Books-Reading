@@ -117,6 +117,7 @@
 |2024.8.22|[NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://arxiv.org/abs/2408.12757)|A novel serving framework: NanoFlow|
 |2025.3.3|[EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test](https://arxiv.org/abs/2503.01840)|Speculative decoding: Eagle 3|
 |2025.5.8|[Scaling Laws for Speculative Decoding](https://arxiv.org/abs/2505.07858)|Scaling Laws for Speculative Decoding|
+|2025.5.12|[PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications](https://arxiv.org/abs/2505.07203)|Prefill Only Inference|
 
 ### Transformer
 
