@@ -28,6 +28,7 @@
 |2024.12.13|[DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/abs/2412.10302)|DeepSeek-VL2: MOE & VLM|
 |2024.12.27|[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)|DeepSeek-V3 Technical Report|
 |2025.1.22|[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)|DeepSeek-R1|
+|2025.9.29|[DeepSeek-V3.2-Exp: Boosting Long-Context Efficiency with DeepSeek Sparse Attention](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf)|DeepSeek-V3.2-Exp|
 |2025.10.20|[DeepSeek-OCR: Contexts Optical Compression](https://github.com/deepseek-ai/DeepSeek-OCR/blob/main/DeepSeek_OCR_paper.pdf)|DeepSeek-OCR|
 
 ### Kernel Optimization
