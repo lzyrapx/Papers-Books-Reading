@@ -9,13 +9,18 @@
 |2024.4.22|[A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)|Efficient Inference||
 |2024.12.27|[A Survey on Large Language Model Acceleration based on KV Cache Management](https://arxiv.org/abs/2412.19442)|KV Cache Management|[Awesome-KV-Cache-Management](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management) & [Awesome-LLM-KV-Cache](https://github.com/Zefan-Cai/Awesome-LLM-KV-Cache)|
 
+### Generative Recommendation
+|Date|Paper|Key Words|
+|:---:|:---:|:---:|
+|2025.5.7|[Towards Large-scale Generative Ranking](https://arxiv.org/abs/2505.04180)|GenRank & xiaohongshu|
+
 ### Models
 
 |Date|Paper|Key Words|
 |:---:|:---:|:---:|
 |2019.2.24|[Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|GPT-2|
 |2020.5.28|[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)|GPT-3|
-|2022.3.4|[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)|InstructGPT && Human feedback training|
+|2022.3.4|[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)|InstructGPT & Human feedback training|
 |2022.4.5|[PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)|PaLM|
 |2023.2.27|[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)|LLaMA|
 |2023.3.15|[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)|GPT-4|
