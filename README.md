@@ -8,6 +8,7 @@
 |:---:|:---:|:---:|:---:|
 |2024.4.22|[A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)|Efficient Inference||
 |2024.12.27|[A Survey on Large Language Model Acceleration based on KV Cache Management](https://arxiv.org/abs/2412.19442)|KV Cache Management|[Awesome-KV-Cache-Management](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management) & [Awesome-LLM-KV-Cache](https://github.com/Zefan-Cai/Awesome-LLM-KV-Cache)|
+|2025.8.19|[Efficient Attention Methods: Hardware-efficient, Sparse, Compact, and Linear Attention](https://attention-survey.github.io/files/Attention_Survey.pdf)|Efficient Attention|[Efficient_Attention_Survey](https://github.com/attention-survey/Efficient_Attention_Survey)|
 
 ### Generative Recommendation
 |Date|Paper|Key Words|
