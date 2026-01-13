@@ -165,6 +165,7 @@
 |2022.5.31|[Let's Verify Step by Step](https://arxiv.org/abs/2305.20050)|Process-supervised Reward Models (PRM)|
 |2022.10.6|[ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)|ReAct:Synergizing Reasoning + Acting|
 |2025.5.14|[Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://arxiv.org/abs/2505.09343v1)|DeepSeek's AI Architectures|
+|2025.12.31|[mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)|DeepSeek:Hyper-Connections|
 
 ## Algorithm
 
